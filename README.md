@@ -1,4 +1,5 @@
-# CreditCardFraudDetection
+# CreditCardFraudDetection - The BackEnd Code Uploaded 
+
 Credit Card usage has increased rapidly over the years. Online transactions are slowly taking over from door-to-door and market shopping. Hence, the amount of frauds in credit card transactions has also increased. Credit Card Fraud Detection needs to be efficiently implemented for banks to deal with and avoid online fraud transactions. This project uses Genetic Algorithm on customer’s credit card and transaction parameters to classify the transaction into three types of fraud. The three types are :
 • Ordinary Fraud
 • Moderate Fraud
